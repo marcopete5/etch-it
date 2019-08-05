@@ -1,0 +1,23 @@
+.pic {
+    width: 810px;
+    position: relative;
+    left: 271px;
+}
+
+#container {
+    width: 540px;
+    display: grid;
+    z-index: 10;
+    position: absolute;
+    top: 118px;
+    left: 390px;
+}
+
+#clear {
+    position: relative;
+    left: 554px;
+    bottom: 90px;
+    padding: 10px 80px;
+    border-radius: 9px;
+    font-size: 30px;
+}
